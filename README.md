@@ -23,7 +23,7 @@ In our project we are going to apply Deep learning models on audio recordings to
 2. Recurrent Neural Network (RNNs)
 3. Long Short-Term Memory (LSTM)
 
-##TOOLS
+## TOOLS
 •	Google Collab
 •	Python
 •	Google drive 
@@ -41,7 +41,8 @@ NN contributes to robust speech recognition implementation in a real-world envir
 - [@Amoraished] (https://github.com/Amoraished)
 - [@Sole3] (https://github.com/Sole3)
 
-##Dataset Resource
-
-# Data Scinece 5T BootCamb BY SDAIA ACADEMY
+## Dataset Resource
+ https://zenodo.org/record/1188976
+ 
+ Data Scinece 5T BootCamb BY SDAIA ACADEMY
 
