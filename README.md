@@ -4,8 +4,10 @@
 ##Speech Emotion Recognition with Deep learning 
 
 <p align="center" width="100%">
-<img src=" https://www.einfochips.com/blog/wp-content/uploads/2019/01/5-deep-learing-trends-that-will-rule-2019-featured.jpg" width="550" length="100" style="display: block; margin: 0 auto"/>
+<img
+ src="https://www.einfochips.com/blog/wp-content/uploads/2019/01/5-deep-learing-trends-that-will-rule-2019-featured.jpg" width="550" length="100" style="display: block; margin: 0 auto"/>
 </p>
+
 
 
 
