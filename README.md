@@ -38,9 +38,8 @@ NN contributes to robust speech recognition implementation in a real-world envir
 ## Authors 
 - [@Aya11salem] (http://github.com/Alya11salem)
 - [@aofahad] (https://github.com/aofahad)
--[@Amoraished] (https://github.com/Amoraished)
-- [@Sole3](https://github.com/Sole3) 
-
+- [@Amoraished] (https://github.com/Amoraished)
+- [@Sole3] (https://github.com/Sole3)
 
 ##Dataset Resource
 
